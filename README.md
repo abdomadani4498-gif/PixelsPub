@@ -10,9 +10,8 @@ Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT 
 
 * Execute `adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS`
 * If using an android terminal app with elevated permission,
-  execute `pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS`
-
-----------------------
+  execute `pm grant com.tribalfs.pixels android.permission.WRITE_SE hiv can kikl oph mca
+  nwe gims free fire 
 
 ADB Procedures using a PC:
 ----------------------
